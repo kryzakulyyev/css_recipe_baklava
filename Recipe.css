@@ -1,0 +1,55 @@
+body {
+  background: #fff8dc;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+  color: #f1711d;
+  text-align: center;
+}
+.nav {
+  background: #bdb76b;
+}
+#header {
+  background: #b9e45d;
+}
+.baklava_1 {
+  width: 20%;
+  border-radius: 15%;
+  align: center;
+}
+.baklava_tea {
+  width: 40%;
+  border-radius: 50%;
+  align: center;
+}
+.baklava_2 {
+  width: 21%;
+  border-radius: 15%;
+  align: center;
+}
+a {
+  font-size: xx-large;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 40px;
+}
+table {
+  width: 100%;
+  text-align: center;
+}
+footer {
+  background: #7fffd4;
+}
+.two_side {
+  width: 100%;
+
+  display: table-row;
+  height: 100%;
+}
+.left_side {
+  width: 50%;
+  display: table-cell;
+}
+.right_side {
+  display: table-cell;
+}
